@@ -54,5 +54,5 @@ config :espresso_wharf_pheonix, EspressoWharfPheonix.Repo,
   username: "postgres",
   password: "postgres",
   database: "espresso_wharf_pheonix_dev",
-  hostname: "localhost",
+  hostname: "postgres",
   pool_size: 10
